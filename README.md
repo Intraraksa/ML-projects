@@ -13,4 +13,4 @@ These machine learning project was created from my personally interesting in AI,
 
 **Data Visualization**:
 - [Sanfran Crime](https://github.com/Intraraksa/ML-projects/blob/master/Sanfran_crimes.ipynb) This project focus on vehicle thieft on Sanfran
-- [Asian Game]
+- [Asian Game](https://github.com/Intraraksa/ML-projects/blob/master/Asian_game.ipynb) Data explore the Asian game dataset
