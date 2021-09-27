@@ -14,4 +14,10 @@ The Methods used in this notebook are
 
 The Upsampling by **SMOTE** 
 This techic is upsampling for increase minority class by using k-nearest to create temporary data for minority class
+
 ![SMOTE](https://miro.medium.com/max/3000/0*UrGYcz_Ab-HTo4-B.png)
+
+Resampling by Near-miss
+Near-Miss techic are undersampling by Condensed Nearest Neighbor Rule methods that select examples to keep from the majority class.
+
+![Near-miss](https://miro.medium.com/max/875/1*8WM0gsh_naPEa9HTpE2c1A.png)
