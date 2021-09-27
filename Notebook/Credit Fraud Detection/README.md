@@ -8,6 +8,6 @@ the dataset contain the incomprehensible information because of PCA preprocessin
 Though, This project are emphasize to solve the problem about **Imbalance classification**
 
 The Methods used in this notebook are
-**-Resampling by majority class deletions to equal
-**-Resampling by SMOTE
-**-Resampling by Nearmiss
+**=Resampling by majority class deletions to equal**
+**-Resampling by SMOTE**
+**-Resampling by Nearmiss**
