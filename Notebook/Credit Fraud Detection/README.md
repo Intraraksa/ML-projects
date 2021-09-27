@@ -11,3 +11,7 @@ The Methods used in this notebook are
 - Resampling by majority class deletions to equal
 - Resampling by SMOTE
 - Resampling by Nearmiss
+
+The Upsampling by **SMOTE** 
+This techic is upsampling for increase minority class by using k-nearest to create temporary data for minority class
+![SMOTE](https://miro.medium.com/max/3000/0*UrGYcz_Ab-HTo4-B.png)
