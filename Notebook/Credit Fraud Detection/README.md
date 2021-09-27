@@ -21,3 +21,6 @@ Resampling by Near-miss
 Near-Miss techic are undersampling by Condensed Nearest Neighbor Rule methods that select examples to keep from the majority class.
 
 ![Near-miss](https://miro.medium.com/max/875/1*8WM0gsh_naPEa9HTpE2c1A.png)
+
+### Conclusion
+The result is evauated by F1-score after Upsampling or Undersampling method give the better result. 
