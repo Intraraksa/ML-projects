@@ -6,6 +6,7 @@ These machine learning project was created from my personally interesting in AI,
 - [Heart Disease](https://github.com/Intraraksa/ML-projects/blob/master/Notebook/Heart_Disease.ipynb) The Classification Heart attack by using CY Grid search for optimize parameter which most impact the accurancy
 - [Breath Cancer](https://github.com/Intraraksa/ML-projects/blob/master/Notebook/Breath_Cancer.ipynb) Detect the breach cancer by machine learning
 - [Hotel Review](https://github.com/Intraraksa/ML-projects/tree/master/Notebook/Hotel-review) Classification review from customer from text
+- [Movies Sentiment Analysis](https://github.com/Intraraksa/ML-projects/tree/master/Notebook/Movie-review-sentiment) Prediction Like/Dislike movies form review by Tensorflow 
 
 **Regression**:
 - [House prediction](https://github.com/Intraraksa/ML-projects/blob/master/Notebook/Breath_Cancer.ipynb) Comparision between linear regression and  Decision tree regression
