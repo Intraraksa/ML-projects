@@ -7,9 +7,14 @@ The computer vision become more popular in the past decade but they are not quit
 Naturally, Manufacturers produce goods by putting raw material on matufacturing tools also known as [Jig&Fixtures.](https://en.wikipedia.org/wiki/Fixture_(tool)).
 Fixtures will hold the raw material consistently. So, the computer vision in manufacturing is just memorization images pixel.
 
-In this project come from Kaggle. 
-It provide 3 type of images 
+In this project come from [Kaggle](https://www.kaggle.com/satishpaladi11/mechanic-component-images-normal-defected) 
+It provide 3 type of images
 1. Defect type 1
 2. Defect type 2
 3. OK parts
+
+# Method
+
+These images are mechanical parts. They contain in subfolder
+
 
