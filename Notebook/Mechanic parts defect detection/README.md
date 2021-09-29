@@ -17,4 +17,8 @@ It provide 3 type of images
 
 These images are mechanical parts. They contain in subfolder
 
+![folder1.jpg](https://i.postimg.cc/PqVRbc54/folder1.jpg)
+
+Deep learning architecture was created with Resnet19 for extract feature and train the model by feeding the images to model layers subsequently
+
 
