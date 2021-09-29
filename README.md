@@ -7,6 +7,7 @@ These machine learning project was created from my personally interesting in AI,
 - [Breath Cancer](https://github.com/Intraraksa/ML-projects/blob/master/Notebook/Breath_Cancer.ipynb) Detect the breach cancer by machine learning
 - [Hotel Review](https://github.com/Intraraksa/ML-projects/tree/master/Notebook/Hotel-review) Classification review from customer from text
 - [Movies Sentiment Analysis](https://github.com/Intraraksa/ML-projects/tree/master/Notebook/Movie-review-sentiment) Prediction Like/Dislike movies form review by Tensorflow 
+- [Mechanical parts defect detection](https://github.com/Intraraksa/ML-projects/tree/master/Notebook/Mechanic%20parts%20defect%20detection) Detect OK/NG part in manufacturing by image classification
 
 **Regression**:
 - [House prediction](https://github.com/Intraraksa/ML-projects/blob/master/Notebook/Breath_Cancer.ipynb) Comparision between linear regression and  Decision tree regression
