@@ -18,6 +18,7 @@ These machine learning project was created from my personally interesting in AI,
 - [Sanfran Crime](https://github.com/Intraraksa/ML-projects/blob/master/Notebook/Sanfran_crimes.ipynb) This project focus on vehicle thieft on Sanfran
 - [Asian Game](https://github.com/Intraraksa/ML-projects/blob/master/Notebook/Asian_game.ipynb) Data explore the Asian game dataset
 - [India Food](https://github.com/Intraraksa/ML-projects/blob/master/Notebook/Indian_foods.ipynb) Data visualization for analysis ingredient of Indian Foods
+- [Stock analysis by visualization](https://github.com/Intraraksa/ML-projects/tree/master/Project/Stock-price-analysis) Stock visualization
 
 **Computer Vision**:
 - [Hand sign -detection](https://github.com/Intraraksa/ML-projects/tree/master/Project/Hand-sign-detection) Detect realtime hand sign of human with Mediapipe and Sklearn 
