@@ -2,7 +2,7 @@
 These machine learning project was created from my personally interesting in AI,Machine learning and Data science
 
 **Classification project**:
-- [Credit card Fraud detection](https://github.com/Intraraksa/ML-projects/tree/master/Notebook/Credit%20Fraud%20Detection) The Classification Fraud and Non Fraud by Machine learning include Data visualization
+- [Credit card Fraud detection](https://github.com/Intraraksa/ML-projects/tree/master/Project/Credit%20Fraud%20Detection) The Classification Fraud and Non Fraud by Machine learning include Data visualization
 - [Heart Disease](https://github.com/Intraraksa/ML-projects/blob/master/Notebook/Heart_Disease.ipynb) The Classification Heart attack by using CY Grid search for optimize parameter which most impact the accurancy
 - [Breath Cancer](https://github.com/Intraraksa/ML-projects/blob/master/Notebook/Breath_Cancer.ipynb) Detect the breach cancer by machine learning
 - [Hotel Review](https://github.com/Intraraksa/ML-projects/tree/master/Notebook/Hotel-review) Classification review from customer from text
