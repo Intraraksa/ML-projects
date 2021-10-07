@@ -23,5 +23,6 @@ These machine learning project was created from my personally interesting in AI,
 **Computer Vision**:
 - [Hand sign -detection](https://github.com/Intraraksa/ML-projects/tree/master/Project/Hand-sign-detection) Detect realtime hand sign of human with Mediapipe and Sklearn 
 - [Mechanical parts defect detection](https://github.com/Intraraksa/ML-projects/tree/master/Project/Mechanic%20parts%20defect%20detection) Detect OK/NG part in manufacturing by image classification
+
 **NLP**
 - [Text Generation](https://github.com/Intraraksa/ML-projects/tree/master/Project/Text_generation) Generate text from "Novel Book" by tensorflow
