@@ -15,7 +15,7 @@ These machine learning project was created from my personally interesting in AI,
 - [Diamond price prediction](https://github.com/Intraraksa/ML-projects/tree/master/Project/diamond) Price prediction by linear regression
 
 **Data Visualization**:
-- [Sanfran Crime](https://github.com/Intraraksa/ML-projects/blob/master/Notebook/Sanfran_crimes.ipynb) This project focus on vehicle thieft on Sanfran
+- [Sanfran Crime](https://github.com/Intraraksa/ML-projects/tree/master/Project/Crime%20visualization) This project focus on vehicle thieft on Sanfran
 - [Asian Game](https://github.com/Intraraksa/ML-projects/blob/master/Notebook/Asian_game.ipynb) Data explore the Asian game dataset
 - [India Food](https://github.com/Intraraksa/ML-projects/blob/master/Notebook/Indian_foods.ipynb) Data visualization for analysis ingredient of Indian Foods
 - [Stock analysis by visualization](https://github.com/Intraraksa/ML-projects/tree/master/Project/Stock-price-analysis) Stock visualization
