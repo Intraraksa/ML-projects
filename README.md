@@ -11,7 +11,7 @@ These machine learning project was created from my personally interesting in AI,
 
 **Regression**:
 - [House prediction](https://github.com/Intraraksa/ML-projects/tree/master/Project/House_prediction) Comparision between linear regression and  Decision tree regression
-- [KC House prediction](https://github.com/Intraraksa/ML-projects/blob/master/Notebook/KC%20house%20prediction.ipynb) House prediction by complex variable 
+- [KC House prediction](https://github.com/Intraraksa/ML-projects/tree/master/Project/KC_house_prediction) House prediction by complex variable 
 - [Diamond price prediction](https://github.com/Intraraksa/ML-projects/blob/Notebook/master/diamonds.ipynb) Price prediction by linear regression
 
 **Data Visualization**:
