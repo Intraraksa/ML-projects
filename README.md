@@ -12,7 +12,7 @@ These machine learning project was created from my personally interesting in AI,
 **Regression**:
 - [House prediction](https://github.com/Intraraksa/ML-projects/tree/master/Project/House_prediction) Comparision between linear regression and  Decision tree regression
 - [KC House prediction](https://github.com/Intraraksa/ML-projects/tree/master/Project/KC_house_prediction) House prediction by complex variable 
-- [Diamond price prediction](https://github.com/Intraraksa/ML-projects/blob/Notebook/master/diamonds.ipynb) Price prediction by linear regression
+- [Diamond price prediction](https://github.com/Intraraksa/ML-projects/tree/master/Project/diamond) Price prediction by linear regression
 
 **Data Visualization**:
 - [Sanfran Crime](https://github.com/Intraraksa/ML-projects/blob/master/Notebook/Sanfran_crimes.ipynb) This project focus on vehicle thieft on Sanfran
