@@ -8,3 +8,9 @@ In this particular project build up to recognize picture K-Pop star idols by usi
 * Run Notebook to train model and dump the facial landmark vector as *.pkl file
 
 face predict notebook for simplest application to recognize facial from picture
+
+![Predicted image](https://github.com/Intraraksa/ML-projects/blob/master/Project/Face-recognition/predicted_img.jpg)
+
+**Next step**
+
+Predict facial real time
