@@ -15,7 +15,9 @@ This project was created for detect attribute of hand sign. furthermore, This pr
 4. repeat all step above with another class name
 
 **Train model**
+
 Run prediction Notebook for save model file
 
 **detection**
-Run detection Notebook for Detect hand sign
+
+Run detection Notebook for Detect hand sign 
