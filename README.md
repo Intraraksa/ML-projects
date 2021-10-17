@@ -27,3 +27,6 @@ These machine learning project was created from my personally interesting in AI,
 
 **NLP**
 - [Text Generation](https://github.com/Intraraksa/ML-projects/tree/master/Project/Text_generation) Generate text from "Novel Book" by tensorflow
+
+**Time Series**
+- [Production demang forecasting](https://github.com/Intraraksa/ML-projects/tree/master/Project/Production%20demand%20forecasting) Build up SARIMA to forecast production demand for each month
