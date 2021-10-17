@@ -12,5 +12,5 @@ The price of diamond are depend on porpotion of Diamond as list below
 This project was create for prediction price of diamond by machine learning model with linear regression model
 and show how to select best model and best parameter by cross validation
 
-![cross validation](https://ichi.pro/assets/images/max/640/1*PdwlCactbJf8F8C7sP-3gw.png)
+![cross validation](https://i2.wp.com/dataaspirant.com/wp-content/uploads/2020/12/1-Cross-Validation.png?resize=596%2C358&ssl=1)
 
