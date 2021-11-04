@@ -6,7 +6,7 @@ for create application with opencv
 
 This application for detect 2 type of part in machining process
 
-![Midship](https://github.com/Intraraksa/ML-projects/blob/master/Project/YOLO%20opencv/pic/prediction_midship.jpg)
+![Midship](https://github.com/Intraraksa/ML-projects/blob/master/Project/YOLO%20opencv/pic/prediction_midship.jpg 416,416)
 
 
 
