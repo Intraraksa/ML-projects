@@ -25,7 +25,7 @@ These machine learning project was created from my personally interesting in AI,
 - [Mechanical parts defect detection](https://github.com/Intraraksa/ML-projects/tree/master/Project/Mechanic%20parts%20defect%20detection) Detect OK/NG part in manufacturing by image classification
 - [Face recognition](https://github.com/Intraraksa/ML-projects/tree/master/Project/Face-recognition) Face regcognition by Dlib library
 - [Object detection with yolov4](https://github.com/Intraraksa/ML-projects/tree/master/Project/YOLO%20opencv) Yolov4 for detection in manyfacturing
-- [Operator pose detection](https://github.com/Intraraksa/ML-projects/tree/master/Project/operation_pose)
+- [Operator pose detection](https://github.com/Intraraksa/ML-projects/tree/master/Project/operation_pose) Body detection for production process 
 
 **NLP**
 - [Text Generation](https://github.com/Intraraksa/ML-projects/tree/master/Project/Text_generation) Generate text from "Novel Book" by tensorflow
