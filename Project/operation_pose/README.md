@@ -1,1 +1,1 @@
-[operator](https://media.giphy.com/media/kukT7lfaKxvERGiYX1/giphy-downsized-large.gif)
+![](https://media.giphy.com/media/kukT7lfaKxvERGiYX1/giphy-downsized-large.gif)
