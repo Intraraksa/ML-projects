@@ -1,1 +1,1 @@
-![operator](https://user-images.githubusercontent.com/38306547/137631066-a22135d1-4ee9-4acc-b206-9b514c675878.gif)
+![operator](<iframe src="https://giphy.com/embed/kukT7lfaKxvERGiYX1" width="480" height="292" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kukT7lfaKxvERGiYX1">via GIPHY</a></p>)
