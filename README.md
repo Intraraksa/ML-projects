@@ -24,6 +24,7 @@ These machine learning project was created from my personally interesting in AI,
 - [Hand sign -detection](https://github.com/Intraraksa/ML-projects/tree/master/Project/Hand-sign-detection) Detect realtime hand sign of human with Mediapipe and Sklearn 
 - [Mechanical parts defect detection](https://github.com/Intraraksa/ML-projects/tree/master/Project/Mechanic%20parts%20defect%20detection) Detect OK/NG part in manufacturing by image classification
 - [Face recognition](https://github.com/Intraraksa/ML-projects/tree/master/Project/Face-recognition) Face regcognition by Dlib library
+- [Object detection with yolov4](https://github.com/Intraraksa/ML-projects/tree/master/Project/YOLO%20opencv) Yolov4 for detection in manyfacturing
 
 **NLP**
 - [Text Generation](https://github.com/Intraraksa/ML-projects/tree/master/Project/Text_generation) Generate text from "Novel Book" by tensorflow
